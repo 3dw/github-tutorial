@@ -1,2 +1,17 @@
-# github-tutorial
-a tutorial for educator to learn github
+# 人生設計的四個順序
+
+1. 健康
+2. 遊戲(喜樂)
+3. 愛
+4. 工作(對文明有所貢獻)
+
+## 健康
+
+
+## 遊戲
+
+
+## 愛
+
+
+## 工作

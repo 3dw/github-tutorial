@@ -45,6 +45,8 @@
 
 # Markdown 語法範例：
 
+[Danger! 按此可跳關到完整的Markdown說明文件](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?type=book)
+
 人生設計的四個順序：(清單)
 
 1. 健康：養成良好的飲食和運動習慣。

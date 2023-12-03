@@ -78,13 +78,16 @@ Github 這個社群媒體，提供一種更強大的協作平台，由Git 版本
 
 這樣，GitHub Desktop 就會開始克隆專案到您指定的目錄中。克隆完成後，您可以在 GitHub Desktop 的介面中看到專案，並可以進行進一步的操作，例如提交更改(Commit changes)或推送(Pull Request)到遠端。
 
-希望這個解釋能幫助您了解如何使用 GitHub Desktop 來克隆 GitHub 專案！
+希望這個解釋能幫助您了解如何使用 GitHub Desktop 來克隆(Clone) GitHub 專案！
 
 ## 如何創建專案內部分支branch
 ( 未完待續 ....  )
 
 ## 如何使用分叉fork與整合Pull-request專案
 ( 未完待續 ....  )
+
+## 如果專案是要在近端/本機寫程式，建議近端/本機安裝Visual Studio Code，並連結GitHub版本控制共同協作。
+安裝 Visual Studio Code:  如果您尚未安裝  Visual Studio Code，請先從[官方網站](https://code.visualstudio.com)下載並安裝。
 
 ## 如何在Visual Studio Code 安裝Git ->再連結Github
 ( 未完待續 ....  )

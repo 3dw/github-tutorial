@@ -81,9 +81,16 @@ Github 這個社群媒體，提供一種更強大的協作平台，由Git 版本
 希望這個解釋能幫助您了解如何使用 GitHub Desktop 來克隆(Clone) GitHub 專案！
 
 ## 如何創建專案內部分支branch
+如何從 master 建立一個主題分支
+fetch
+merge
 ( 未完待續 ....  )
 
-## 如何使用分叉fork與整合Pull-request專案
+## 如何使用分叉fork與整合Pull-request專案：創建個人版本的分岔支線版本，修改之後，提出 Pull Request 到原本的專案。我們對自己目前還沒有權限編輯的專案，要改良通常都是用這種方法。
+創建分叉： 前往 GitHub 專案頁面，打開瀏覽器，然後前往您想要創建分叉(Fork) 的 GitHub 專案頁面，點擊右上角的 "Fork"。
+編輯分叉：
+整合更改(Commit changes)分叉的所有分支branches： "Commit changes" > Merge
+Pull Request 到原本專案 ： "Contribute"
 ( 未完待續 ....  )
 
 ## 如果協作專案是要在近端/本機寫程式，建議近端/本機安裝Visual Studio Code，並將 GitHub Desktop 預設編輯器設為Visual Studio Code。

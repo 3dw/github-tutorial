@@ -89,6 +89,7 @@ Github 這個社群媒體，提供一種更強大的協作平台，由Git 版本
 ## 如果協作專案是要在近端/本機寫程式，建議近端/本機安裝Visual Studio Code，並將 GitHub Desktop 預設編輯器設為Visual Studio Code。
 安裝 Visual Studio Code:  如果您尚未安裝  Visual Studio Code，請先從[官方網站](https://code.visualstudio.com)下載並安裝。
 在 GitHub Desktop 將 Visual Studio Code 設成預設編輯器： 
+
   (Windows版本)在 GitHub Desktop 的選單中，選擇 "File" > "Options" > “Integrations" > External Editor 選擇Visual Studio Code > "Save"
   
   (Mac 版本)在 GitHub Desktop 的選單中，選擇 "粗體GitHUb Desktop" > "Settings" > “Integrations" > External Editor 選擇Visual Studio Code > "Save" 

@@ -54,11 +54,11 @@ Github 這個社群媒體，提供一種更強大的協作平台，由Git 版本
 ( 未完待續 ....  )
 
 
-## 如何克隆一個專案
+## 如何克隆(Clone)一個專案
 
 以下是使用 GitHub Desktop 克隆 GitHub 專案的步驟：
 
-安裝 GitHub Desktop: 如果您尚未安裝 GitHub Desktop，請先從官方網站下載並安裝。
+安裝 GitHub Desktop: 如果您尚未安裝 GitHub Desktop，請先從[官方網站](https://desktop.github.com)下載並安裝。
 
 開啟 GitHub Desktop: 安裝完成後，開啟 GitHub Desktop 應用程式。
 
@@ -66,24 +66,48 @@ Github 這個社群媒體，提供一種更強大的協作平台，由Git 版本
 
 前往 GitHub 專案頁面: 打開瀏覽器，然後前往您想要克隆的 GitHub 專案頁面。
 
-複製專案的 URL: 在 GitHub 專案頁面的右上角，找到 "Code" 或 "Clone" 按鈕，點擊後複製專案的 URL。
+複製專案的 URL: 在 GitHub 專案頁面的右上角，找到 "Code" -> "Clone" ，點擊複製專案的 URL。
 
-回到 GitHub Desktop: 在 GitHub Desktop 的選單中，選擇 File > Clone Repository。
+回到 GitHub Desktop: 在 GitHub Desktop 的選單中，選擇 "File" > "Clone Repository"。
 
-輸入或貼上 URL: 在彈出的對話框中，切換到 "URL" 分頁，然後輸入或貼上您之前複製的 GitHub 專案 URL。
+輸入或貼上 URL: 在彈出的對話框中，切換到 "URL" 分頁，然後在 Repository URL or GitHub username and repository 輸入或貼上您之前複製的 GitHub 專案 URL。
 
 選擇儲存位置: 您可以選擇將專案克隆到電腦上的哪個目錄。
 
 點擊 "Clone": 確認所有訊息後，點擊 "Clone" 按鈕。
 
-這樣，GitHub Desktop 就會開始克隆專案到您指定的目錄中。克隆完成後，您可以在 GitHub Desktop 的介面中看到專案，並可以進行進一步的操作，例如提交更改或推送到遠端。
+這樣，GitHub Desktop 就會開始克隆專案到您指定的目錄中。克隆完成後，您可以在 GitHub Desktop 的介面中看到專案，並可以進行進一步的操作，例如提交更改(Commit changes)或推送(Pull Request)到遠端。
 
-希望這個解釋能幫助您了解如何使用 GitHub Desktop 來克隆 GitHub 專案！
+希望這個解釋能幫助您了解如何使用 GitHub Desktop 來克隆(Clone) GitHub 專案！
 
-## 如何創建專案內部分支
+## 如何創建專案內部分支branch
+如何從 master 建立一個主題分支
+fetch
+merge
 ( 未完待續 ....  )
 
-## 如何分叉與整合專案
+## 如何使用分叉fork與整合Pull-request專案：創建個人版本的分岔支線版本，修改之後，提出 Pull Request 到原本的專案。我們對自己目前還沒有權限編輯的專案，要改良通常都是用這種方法。
+
+創建分叉： 前往 GitHub 專案頁面，打開瀏覽器，然後前往您想要創建分叉(Fork) 的 GitHub 專案頁面，點擊右上角的 "Fork"。
+
+編輯分叉：
+
+整合更改(Commit changes)分叉的所有分支branches： "Commit changes" > Merge
+
+Pull Request 到原本專案 ： "Contribute"
+( 未完待續 ....  )
+
+## 如果協作專案是要在近端/本機寫程式，建議近端/本機安裝Visual Studio Code，並將 GitHub Desktop 預設編輯器設為Visual Studio Code。
+
+安裝 Visual Studio Code:  如果您尚未安裝  Visual Studio Code，請先從[官方網站](https://code.visualstudio.com)下載並安裝。
+
+在 GitHub Desktop 將 Visual Studio Code 設成預設編輯器： 
+
+  (Windows)在 GitHub Desktop 的選單中，選擇 "File" > "Options" > “Integrations" > External Editor 選擇Visual Studio Code > "Save"
+  
+  (Mac)在 GitHub Desktop 的選單中，選擇 "粗體GitHub Desktop" > "Settings" > “Integrations" > External Editor 選擇Visual Studio Code > "Save" 
+
+## 如何在Visual Studio Code 安裝Git ->再連結Github
 ( 未完待續 ....  )
 
 

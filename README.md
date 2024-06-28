@@ -99,7 +99,11 @@ Fork與整合Pull-request專案：創建個人版本的分岔支線版本，修�
 整合更改(Commit changes)分叉的所有分支branches： "Commit changes" > Merge
 
 Pull Request 到原本專案 ： "Contribute"
-( 未完待續 ....  )
+
+收到Pull Requst的對方，會檢視之後決定是否merge進原專案中。
+
+這個方法對於一次增修一批功能時很好用。
+
 
 ## 如果協作專案是要在近端/本機寫程式，建議近端/本機安裝Visual Studio Code，並將 GitHub Desktop 預設編輯器設為Visual Studio Code。
 

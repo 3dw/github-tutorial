@@ -26,38 +26,20 @@ https://github.com/3dw/github-tutorial/wiki/%E5%A6%82%E4%BD%95%E4%B8%8A%E6%89%8B
 https://github.com/3dw/github-tutorial/wiki/%E5%A6%82%E4%BD%95%E5%85%8B%E9%9A%86(Clone)%E4%B8%80%E5%80%8B%E5%B0%88%E6%A1%88
 
 
-## 如何創建專案內部分支branch
-如何從 master 建立一個主題分支
-fetch
-merge
-( 未完待續 ....  )
-
 ## 如何使用分叉fork
 
-Fork與整合Pull-request專案：創建個人版本的分岔支線版本，修改之後，提出 Pull Request 到原本的專案。
-我們對自己目前還沒有權限編輯的專案，要改良通常都是用這種方法。
-
-創建分叉： 前往 GitHub 專案頁面，打開瀏覽器，然後前往您想要創建分叉(Fork) 的 GitHub 專案頁面，點擊右上角的 "Fork"。
-編輯分叉：
-
-整合更改(Commit changes)分叉的所有分支branches： "Commit changes" > Merge
-Pull Request 到原本專案 ： "Contribute"
-收到Pull Requst的對方，會檢視之後決定是否merge進原專案中。
-這個方法對於一次增修一批功能時很好用。
+https://github.com/3dw/github-tutorial/wiki/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%88%86%E5%8F%89Fork
 
 
-## 如果協作專案是要在近端/本機寫程式，建議近端/本機安裝Visual Studio Code，並將 GitHub Desktop 預設編輯器設為Visual Studio Code。
+## 如何創建專案內部分支branch
 
-安裝 Visual Studio Code:  如果您尚未安裝  Visual Studio Code，請先從[官方網站](https://code.visualstudio.com)下載並安裝。
+https://github.com/3dw/github-tutorial/wiki/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%B0%88%E6%A1%88%E5%85%A7%E9%83%A8%E5%88%86%E6%94%AFBranch
 
-在 GitHub Desktop 將 Visual Studio Code 設成預設編輯器： 
 
-  (Windows)在 GitHub Desktop 的選單中，選擇 "File" > "Options" > “Integrations" > External Editor 選擇Visual Studio Code > "Save"
-  
-  (Mac)在 GitHub Desktop 的選單中，選擇 "粗體GitHub Desktop" > "Settings" > “Integrations" > External Editor 選擇Visual Studio Code > "Save" 
+## 整合VSCode Editor & Github
 
-## 如何在Visual Studio Code 安裝Git ->再連結Github
-( 未完待續 ....  )
+https://github.com/3dw/github-tutorial/wiki/%E6%95%B4%E5%90%88VSCode-Editor-&-Github
+
 
 # Markdown 語法範例：
 https://github.com/3dw/github-tutorial/wiki/Markdown%E8%AA%9E%E6%B3%95%E7%AF%84%E4%BE%8B

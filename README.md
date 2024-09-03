@@ -28,55 +28,12 @@ Github 這個社群媒體，提供一種更強大的協作平台，由Git 版本
 
 ## 如何上手[Github](https://www.github.com)？
 
-### 先從簡單的地方著手
-
-[Github](https://www.github.com)的學習路徑比較陡峭難爬， 因此，我們不要太著急，先想想看有沒有比他更簡單一點點的協作平台呢？
-
-有的，那就是no-code 網站設計中，非常好用的[hackMD](https://hackmd.io)。
-
-我們從比較簡單的[hackMD](https://hackmd.io)，走階梯走到[Github](https://www.github.com)，會比較容易
-
-您可以先去[hackMD](https://hackmd.io)註冊一個帳號嗎？
-
-註冊帳號的方式非常簡單，您可以只要用Google Login就好了。
-
-註冊好了，[hackMD](https://hackmd.io)之後，請把帳號email給你想合作的對象，例如[Bestian](https://hack.bestian.tw)，謝謝。
-
-
-### 接下來我們再去申請一個[Github](https://www.github.com)帳號
-
-
-<img width="890" alt="GitHub__Let’s_build_from_here_·_GitHub" src="https://github.com/3dw/github-tutorial/assets/109048/299156e4-71dc-4552-aa6a-8c468592f39c">
-
-
-( 未完待續 ....  )
-
+https://github.com/3dw/github-tutorial/wiki/%E5%A6%82%E4%BD%95%E4%B8%8A%E6%89%8BGithub
 
 ## 如何克隆(Clone)一個專案
 
-以下是使用 GitHub Desktop 克隆 GitHub 專案的步驟：
+https://github.com/3dw/github-tutorial/wiki/%E5%A6%82%E4%BD%95%E5%85%8B%E9%9A%86(Clone)%E4%B8%80%E5%80%8B%E5%B0%88%E6%A1%88
 
-安裝 GitHub Desktop: 如果您尚未安裝 GitHub Desktop，請先從[官方網站](https://desktop.github.com)下載並安裝。
-
-開啟 GitHub Desktop: 安裝完成後，開啟 GitHub Desktop 應用程式。
-
-登入帳戶: 如果您還沒有登入 GitHub 帳戶，您會需要先登入。
-
-前往 GitHub 專案頁面: 打開瀏覽器，然後前往您想要克隆的 GitHub 專案頁面。
-
-複製專案的 URL: 在 GitHub 專案頁面的右上角，找到 "Code" -> "Clone" ，點擊複製專案的 URL。
-
-回到 GitHub Desktop: 在 GitHub Desktop 的選單中，選擇 "File" > "Clone Repository"。
-
-輸入或貼上 URL: 在彈出的對話框中，切換到 "URL" 分頁，然後在 Repository URL or GitHub username and repository 輸入或貼上您之前複製的 GitHub 專案 URL。
-
-選擇儲存位置: 您可以選擇將專案克隆到電腦上的哪個目錄。
-
-點擊 "Clone": 確認所有訊息後，點擊 "Clone" 按鈕。
-
-這樣，GitHub Desktop 就會開始克隆專案到您指定的目錄中。克隆完成後，您可以在 GitHub Desktop 的介面中看到專案，並可以進行進一步的操作，例如提交更改(Commit changes)或推送(Pull Request)到遠端。
-
-希望這個解釋能幫助您了解如何使用 GitHub Desktop 來克隆(Clone) GitHub 專案！
 
 ## 如何創建專案內部分支branch
 如何從 master 建立一個主題分支

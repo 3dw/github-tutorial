@@ -1,8 +1,8 @@
 # [Github](https://www.github.com)入門教學
 
-## 想像一種情況
+## 概念
 
-你有70個人，必須要協作一份重要的文件。
+想像一種情況：你有2~70個人，必須要協作一份重要的文件。
 
 每個人都有不同的想法，但是都想要文件變好。
 
@@ -21,11 +21,9 @@
 Github 這個社群媒體，提供一種更強大的協作平台，由Git 版本控制系統當作它的基底。
 
 
-## [Github](https://www.github.com)能解決什麼問題？
+### [Github](https://www.github.com)能解決什麼問題？
 
 [Github](https://www.github.com) 這個社群媒體，提供的是一種更強大的協作平台，由Git版本控制系統當作它的基底。
-
-
 
 
 ## 如何上手[Github](https://www.github.com)？
